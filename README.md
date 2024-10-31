@@ -1,6 +1,7 @@
 # labspy03
 # ALUR ALGORITMA LATIHAN 1
 SOAL
+
 Tampilkan n bilangan acak yang lebih kecil dari 0.5
 Nilai n pada saat runtime
 Anda bisa menggunakan while atau for untuk menyelesaikannya
